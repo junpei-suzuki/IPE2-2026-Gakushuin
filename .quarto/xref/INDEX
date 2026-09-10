@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "8d07ca7e"
+  },
+  "about.qmd": {
+    "about.html": "4e7e4a1c"
+  },
+  "00_syllabus.qmd": {
+    "00_syllabus.html": "c62a7f1d"
+  },
+  "01_intro_slide.qmd": {
+    "01_intro_slide.html": "2706cdcd"
+  },
+  "01_intro.qmd": {
+    "01_intro.html": "994aacb4"
+  },
+  "02_globalization_slide.qmd": {
+    "02_globalization_slide.html": "3c23bf38"
+  },
+  "02_globalization.qmd": {
+    "02_globalization.html": "a5e7a920"
+  },
+  "03_domestic_slide.qmd": {
+    "03_domestic_slide.html": "af84f1e6"
+  },
+  "03_domestic.qmd": {
+    "03_domestic.html": "d55225de"
+  }
+}

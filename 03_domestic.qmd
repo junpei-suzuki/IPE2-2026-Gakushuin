@@ -1,0 +1,7 @@
+---
+title: "03/グローバル化とは何か"
+abstract: 
+  グローバル化が国内政治経済に与える影響について収斂仮説を学ぶとともに、ヘクシャー＝オリーンモデルに基づいて収斂仮説を批判的に検討する。
+---
+
+{{< revealjs file="03_domestic_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

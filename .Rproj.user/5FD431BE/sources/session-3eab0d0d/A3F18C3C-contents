@@ -1,0 +1,7 @@
+---
+title: "02/グローバル化とは何か"
+abstract: 
+  抽象的な概念を定義し測定する方法を学んだ上で、国際政治経済学上の重要な概念である「グローバル化」で応用する。データに基づいてグローバル化の現状を議論する。
+---
+
+{{< revealjs file="02_globalization_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

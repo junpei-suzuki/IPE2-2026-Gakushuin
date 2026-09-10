@@ -1,0 +1,7 @@
+---
+title: "01/はじめに"
+abstract: 
+  本科目の目的・計画・評価方法・諸注意を紹介し、前期「国際政治経済I」で学んだことを思い出すとともに、今学期「国際政治経済II」の目的と内容を知り、受講の意図を明確にもつ。
+---
+
+{{< revealjs file="01_intro_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
