@@ -6,7 +6,7 @@ modified-date: today
 
 format: 
   revealjs:
-    footer: "グローバル化と国内政"
+    footer: "グローバル化と国内政治"
     mermaid:
       theme: neutral
 

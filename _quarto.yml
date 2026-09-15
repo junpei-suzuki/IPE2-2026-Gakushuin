@@ -29,6 +29,7 @@ website:
           - text: "03/グローバル化と国内政治"
             href: 03_domestic.qmd
           - text: "04/グローバル化と福祉国家"
+            href: 04_welfare.qmd
           - text: "05/グローバル化と資本主義"
           - text: "06/地域統合"
       - section: 安全保障
