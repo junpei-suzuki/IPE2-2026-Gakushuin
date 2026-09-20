@@ -1,6 +1,6 @@
 ---
 title: "01/はじめに"
-date: 2026/9/21
+date: 2026/9/28
 
 modified-date: today
 

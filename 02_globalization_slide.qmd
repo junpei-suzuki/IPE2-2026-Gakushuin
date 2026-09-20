@@ -1,6 +1,6 @@
 ---
 title: "02/グローバル化とは何か"
-date: 2026/9/28
+date: 2026/10/5
 
 modified-date: today
 

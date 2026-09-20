@@ -1,6 +1,6 @@
 ---
 title: "04/グローバル化と福祉国家"
-date: 2026/10/12
+date: 2026/10/19
 
 modified-date: today
 

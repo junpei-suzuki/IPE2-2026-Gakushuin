@@ -1,6 +1,6 @@
 ---
 title: "03/グローバル化と国内政治"
-date: 2026/10/5
+date: 2026/10/12
 
 modified-date: today
 
