@@ -31,6 +31,7 @@ website:
           - text: "04/グローバル化と福祉国家"
             href: 04_welfare.qmd
           - text: "05/グローバル化と資本主義"
+            href: 05_capitalism.qmd
           - text: "06/地域統合"
       - section: 安全保障
         contents:

@@ -1,0 +1,7 @@
+---
+title: "05/グローバル化と資本主義"
+abstract: 
+  各国の資本主義のあり方の違いを学ぶ。労使関係に着目したコーポラティズム論ともに、企業の視点にフォーカスした資本主義の多様性論を学ぶ。その上でグローバル化が資本主義のあり方にどのような影響を及ぼすのか、収斂仮説と多様性論の見地から議論する。
+---
+
+{{< revealjs file="05_capitalism_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
