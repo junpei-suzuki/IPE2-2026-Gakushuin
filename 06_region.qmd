@@ -1,0 +1,7 @@
+---
+title: "06/地域統合"
+abstract: 
+  地域統合とは何か、その概念と現状を知るとともに、地域統合が最も進んだ例である欧州連合について学ぶ。欧州統合を機能主義の流れの中に位置付け、それに対する反発である欧州懐疑論の論理を理解する。
+---
+
+{{< revealjs file="06_region_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

@@ -33,6 +33,7 @@ website:
           - text: "05/グローバル化と資本主義"
             href: 05_capitalism.qmd
           - text: "06/地域統合"
+            href: 06_region.qmd
       - section: 安全保障
         contents:
           - text: "07/経済と安全保障"
