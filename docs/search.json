@@ -379,7 +379,7 @@
     "href": "02_globalization_slide.html#先週のrpより",
     "title": "02/グローバル化とは何か",
     "section": "先週のRPより",
-    "text": "先週のRPより\nTBD"
+    "text": "先週のRPより\n\n東アジアの開発モデル輸入代替型工業、輸出指向型工業のことかと思って、地理受験の勉強で深くやったので興味があります。経済の知識がほぼないのでかなり心配です。\n\n\n\n後期の内容として、普段からよく聞く言葉で、国同士のつながりや私たちの生活にも関係していると感じたグローバル化に興味を持った。"
   },
   {
     "objectID": "02_globalization_slide.html#本日の目的と到達目標",
@@ -477,7 +477,7 @@
     "href": "02_globalization_slide.html#kof-globalization-index-1",
     "title": "02/グローバル化とは何か",
     "section": "KOF Globalization Index",
-    "text": "KOF Globalization Index\nチューリヒ工科大学経済研究所（ETH Zurich KOF）が提供1\n\n3つの次元でグローバル化の程度を包括的・定量的に測定\n\n経済のグローバル化…モノ・資本・サービス、市場交換に関する情報・認識の長距離移動\n政治のグローバル化…政府の政策の拡散\n社会のグローバル化…アイデア、情報、イメージ、人々の移動\n\n\nDreher, A. (2006). Does globalization affect growth? Evidence from a new index of globalization. Applied Economics, 38(10), 1091-1110."
+    "text": "KOF Globalization Index\nETH Zurich KOFが提供する、各国各年のグローバル化の程度を操作化した指標1 2\n\n3つの次元でグローバル化の程度を包括的・定量的に測定\n\n経済のグローバル化…モノ・資本・サービス、市場交換に関する情報・認識の長距離移動\n政治のグローバル化…政府の政策の拡散\n社会のグローバル化…アイデア、情報、イメージ、人々の移動\n\n\nDreher, Axel (2006): external page Does Globalization Affect Growth? Evidence from a new Index of Globalization, Applied Economics 38, 10: 1091-1110.Gygli, Savina, Florian Haelg, Niklas Potrafke and Jan-Egbert Sturm (2019): The KOF Globalisation Index – Revisited, Review of International Organizations, 14(3), 543-574."
   },
   {
     "objectID": "02_globalization_slide.html#質問-1",
@@ -1298,5 +1298,26 @@
       "付録",
       "付録01/スライドの保存方法"
     ]
+  },
+  {
+    "objectID": "02_globalization_slide.html#kof-indexの概観",
+    "href": "02_globalization_slide.html#kof-indexの概観",
+    "title": "02/グローバル化とは何か",
+    "section": "KOF Indexの概観",
+    "text": "KOF Indexの概観\n\nトレンド国別比較\n\n\n\n\n\n1970-2020の推移\n\n\n\n\n\n\n\n2020年時点の値"
+  },
+  {
+    "objectID": "02_globalization_slide.html#kofのデータ",
+    "href": "02_globalization_slide.html#kofのデータ",
+    "title": "02/グローバル化とは何か",
+    "section": "KOFのデータ",
+    "text": "KOFのデータ\n\n\n\n\n\n\n\n\n\n\n\n実質（de facto）\n法的（de jure）\n\n\n\n\n経済\n財サービス貿易、FDIなど\n貿易規制、投資規制など\n\n\n社会\n移民、インターネット接続、文化財貿易など\n旅行の自由、ネット接続、ジェンダー平等など\n\n\n政治\n大使館数、国際NGO数など\n国際機関加盟数、国際条約数など\n\n\n\n\n【詳細】"
+  },
+  {
+    "objectID": "02_globalization_slide.html#kof-indexの平均の推移",
+    "href": "02_globalization_slide.html#kof-indexの平均の推移",
+    "title": "02/グローバル化とは何か",
+    "section": "KOF Indexの平均の推移",
+    "text": "KOF Indexの平均の推移\n\n\n\n\n\n\n\n\n\nQ. このグラフから何が読み取れる？"
   }
 ]

@@ -14,6 +14,8 @@ metadata-files:
   - "style/slide.yml"
 ---
 
+{{< include _common.qmd >}}
+
 ## 今日の目次
 
 1. はじめに
@@ -28,7 +30,12 @@ metadata-files:
 目標15分
 :::
 ## 先週のRPより
-TBD
+> 東アジアの開発モデル輸入代替型工業、輸出指向型工業のことかと思って、地理受験の勉強で深くやったので興味があります。経済の知識がほぼないのでかなり心配です。
+
+::: {.fragment .fade-in}
+> 後期の内容として、普段からよく聞く言葉で、国同士のつながりや私たちの生活にも関係していると感じたグローバル化に興味を持った。
+
+:::
 
 ## 本日の目的と到達目標
 #### 目的
@@ -47,6 +54,11 @@ TBD
 ![](figs/graphic_syllabus_ipe2.png)
 
 # 概念化と操作化
+::: {.notes}
+ここまで20分
+
+目標15分
+:::
 ## 共通理解としての概念
 ある会話の例
 
@@ -110,6 +122,12 @@ TBD
 - 概念化を前提に、どのような操作化ができるか考えてみてください。
 
 # グローバル化
+::: {.notes}
+ここまで35分
+
+目標15分
+:::
+
 ## グローバル化 (globalization)
 国境を超えた社会的経済的な結びつきが強くなること
 
@@ -178,13 +196,24 @@ $$
 #### 海外直接投資
 <!-- ![[World Bank](https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD)](figs/fdi.png) -->
 
-<iframe src="https://data.worldbank.org/share/widget?indicators=BX.KLT.DINV.CD.WD" width='900' height='600' frameBorder='0' scrolling="no" ></iframe>
+<!-- <iframe src="https://data.worldbank.org/share/widget?indicators=BX.KLT.DINV.CD.WD" width='900' height='600' frameBorder='0' scrolling="no" ></iframe> -->
+
+<iframe src="https://ourworldindata.org/grapher/foreign-direct-investment-net-inflows-as-share-of-gdp?tab=line" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
 
 :::
 
 # KOF Globalization Index
+::: {.notes}
+ここまで50分
+
+休憩5分
+
+目標20分
+:::
+
+
 ## KOF Globalization Index
-チューリヒ工科大学経済研究所（[ETH Zurich KOF](https://kof.ethz.ch/en/forecasts-and-indicators/indicators/kof-globalisation-index.html)）が提供[^dreher2006]
+ETH Zurich KOFが提供する、各国各年のグローバル化の程度を操作化した指標[^dreher2006] [^gygli2019]
 
 ::: {.fragment .fade-in}
 3つの次元でグローバル化の程度を包括的・定量的に測定
@@ -197,89 +226,139 @@ $$
 :::
 :::
 
-[^dreher2006]: Dreher, A. (2006). Does globalization affect growth? Evidence from a new index of globalization. *Applied Economics,* 38(10), 1091-1110. 
+[^dreher2006]: Dreher, Axel (2006): external page Does Globalization Affect Growth? Evidence from a new Index of Globalization, *Applied Economics 38, 10*: 1091-1110.
+
+[^gygli2019]: Gygli, Savina, Florian Haelg, Niklas Potrafke and Jan-Egbert Sturm (2019): The KOF Globalisation Index – Revisited, *Review of International Organizations, 14*(3), 543-574.
 
 ## 質問
 経済・政治・社会の各三次元を測定するのにKOFはどのようなデータを使っていると思いますか？
 
-## 経済のグローバル化
-実際のフローの量：
+<!-- ## 経済のグローバル化 -->
+<!-- 実際のフローの量： -->
 
-::: {.incremental}
-- 貿易（対GDP比）
-- 海外直接投資（対GDP比）
-- ポートフォリオ投資（対GDP比）
-- 外国籍の市民及び企業に対する所得の支払い（対GDP比）
+<!-- ::: {.incremental} -->
+<!-- - 貿易（対GDP比） -->
+<!-- - 海外直接投資（対GDP比） -->
+<!-- - ポートフォリオ投資（対GDP比） -->
+<!-- - 外国籍の市民及び企業に対する所得の支払い（対GDP比） -->
 
-:::
+<!-- ::: -->
 
+<!-- ::: {.fragment .fade-in} -->
+<!-- 貿易・資本移動に対する規制： -->
+
+<!-- ::: {.incremental} -->
+<!-- - 非関税障壁 -->
+<!-- - 平均関税率 -->
+<!-- - 国際貿易にかかる税（対総税収比） -->
+<!-- - 資本規制指標 -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## 政治のグローバル化 -->
+<!-- ::: {.incremental} -->
+<!-- - 外国大使館の数 -->
+<!-- - 国際機関の加盟数 -->
+<!-- - 国連安保理ミッションの参加数 -->
+
+<!-- ::: -->
+
+<!-- ## 社会のグローバル化 -->
+<!-- 個人的接触 -->
+
+<!-- ::: {.incremental} -->
+<!-- - 外国への電話トラフィック -->
+<!-- - 海外観光者数 -->
+<!-- - 外国生まれ人口etc -->
+
+<!-- ::: -->
+
+<!-- ::: {.fragment .fade-in} -->
+<!-- 情報の伝播 -->
+
+<!-- ::: {.incremental} -->
+<!-- - 電話回線数 -->
+<!-- - インターネットホスト／利用者数 -->
+<!-- - 日刊新聞数etc. -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: {.fragment .fade-in} -->
+<!-- 文化的近接性 -->
+
+<!-- ::: {.incremental} -->
+<!-- - マクドナルド店舗数（一人当たり） -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ##  -->
+
+<!-- ![Dreher (2006)](figs/kof_components.png){.r-stretch} -->
+
+## KOFのデータ
 ::: {.fragment .fade-in}
-貿易・資本移動に対する規制：
-
-::: {.incremental}
-- 非関税障壁
-- 平均関税率
-- 国際貿易にかかる税（対総税収比）
-- 資本規制指標
-
-:::
-:::
-
-## 政治のグローバル化
-::: {.incremental}
-- 外国大使館の数
-- 国際機関の加盟数
-- 国連安保理ミッションの参加数
+::: {style="font-size: 80%;"}
+|          | 実質（de facto）                         | 法的（de jure）                            | 
+| -------- | ---------------------------------------- | ------------------------------------------ | 
+| **経済** | 財サービス貿易、FDIなど                  | 貿易規制、投資規制など                     | 
+| **社会** | 移民、インターネット接続、文化財貿易など | 旅行の自由、ネット接続、ジェンダー平等など | 
+| **政治** | 大使館数、国際NGO数など                  | 国際機関加盟数、国際条約数など             | 
 
 :::
 
-## 社会のグローバル化
-個人的接触
-
-::: {.incremental}
-- 外国への電話トラフィック
-- 海外観光者数
-- 外国生まれ人口etc
+[【詳細】](https://ethz.ch/content/dam/ethz/special-interest/dual/kof-dam/documents/Globalization/2025/KOFGI_2025_Structure.pdf)
 
 :::
-
-::: {.fragment .fade-in}
-情報の伝播
-
-::: {.incremental}
-- 電話回線数
-- インターネットホスト／利用者数
-- 日刊新聞数etc.
-
-:::
-:::
-
-::: {.fragment .fade-in}
-文化的近接性
-
-::: {.incremental}
-- マクドナルド店舗数（一人当たり）
-
-:::
-:::
-
-## 
-
-![Dreher (2006)](figs/kof_components.png){.r-stretch}
 
 
 # データで見るグローバル化
-## KOF Indexの外観
-::: {.panel-tabset}
-#### トレンド
-![1970-2020の推移](figs/KOF_trend.png)
+::: {.notes}
+ここまで75分（01:15:00）
 
-#### 国別比較
-![2020年時点の値](figs/KOF_2020.png)
-
+目標15分
 :::
+<!-- ## KOF Indexの概観 -->
+<!-- ::: {.panel-tabset} -->
+<!-- #### トレンド -->
+<!-- ![1970-2020の推移](figs/KOF_trend.png) -->
+
+<!-- #### 国別比較 -->
+<!-- ![2020年時点の値](figs/KOF_2020.png) -->
+
+<!-- ::: -->
+
+## KOF Indexの平均の推移
+```{r}
+KOFGI_2025_public <- read_excel("data/KOFGI_2025_public.xlsx")
+
+KOFGI_2025_public |> 
+  select(year, KOFGI, KOFEcGI, KOFSoGI, KOFPoGI) |> 
+  group_by(year) |> 
+  summarize(KOFGI   = mean(KOFGI, na.rm = TRUE),
+            KOFEcGI = mean(KOFEcGI, na.rm = TRUE),
+            KOFSoGI = mean(KOFSoGI, na.rm = TRUE),
+            KOFPoGI = mean(KOFPoGI, na.rm = TRUE)) |> 
+  pivot_longer(cols = c("KOFGI", "KOFEcGI", "KOFSoGI", "KOFPoGI"),
+               names_to = "variable") |> 
+  mutate(variable = factor(variable,
+                           levels = c("KOFGI", "KOFEcGI", "KOFSoGI", "KOFPoGI"),
+                           labels = c("KOF総合", "KOF経済", "KOF社会", "KOF政治"))) |> 
+  ggplot(aes(x = year, y = value)) +
+  geom_line(aes(colour = variable)) +
+  labs(x = "年", y = "KOF指標の値", colour = "") +
+  theme(legend.position = "bottom")
+```
+Q. このグラフから何が読み取れる？
 
 # まとめ
+::: {.notes}
+ここまで90分（01:30:00）
+
+目標5分
+:::
 ## 本日の目的と到達目標
 #### 目的
 抽象的な概念を定義し測定する方法を学んだ上で、国際政治経済学上の重要な概念である「グローバル化」で応用する。データに基づいてグローバル化の現状を議論する。
