@@ -14,6 +14,8 @@ metadata-files:
   - "style/slide.yml"
 ---
 
+{{< include _common.qmd >}}
+
 ## 今日の目次
 
 1. はじめに
@@ -28,7 +30,17 @@ metadata-files:
 目標15分
 :::
 ## 先週のRPより
-TBD
+> 「グローバル化」のような抽象的な概念を定式する概念化と、変数に置き換える操作化の違いが興味深かった。KOFもその具体例だと理解した。
+
+::: {.fragment .fade-in}
+> KOF Indexが経済・社会・政治の三次元における実質・法的の両面からグローバル化を操作化していること学んだが、それぞれの具体的な項目の重みづけの程度をどのように決定しているのか興味を持った。
+
+:::
+
+::: {.fragment .fade-in}
+> KOFグローバルインデックスなどの概念を操作化する指標を学び、そのような指標の存在は、我々が概念を数字で理解することができるだけでなく、グラフ化したりする事で、その分野に関してあまり興味のない人々の理解を比較的容易に深めることができる点でも、大きな役割を果たしていると感じた。
+:::
+
 
 ## 本日の目的と到達目標
 #### 目的
@@ -48,8 +60,36 @@ TBD
 
 
 # 収斂仮説
-## （復習）KOF Indexのトレンド
-![1970-2020の推移](figs/KOF_trend.png)
+::: {.notes}
+ここまで30分
+
+目標20分
+:::
+
+<!-- ## （復習）KOF Indexのトレンド -->
+<!-- ![1970-2020の推移](figs/KOF_trend.png) -->
+
+## 復習：KOF Indexの平均の推移
+```{r}
+KOFGI_2025_public <- read_excel("data/KOFGI_2025_public.xlsx")
+
+KOFGI_2025_public |> 
+  select(year, KOFGI, KOFEcGI, KOFSoGI, KOFPoGI) |> 
+  group_by(year) |> 
+  summarize(KOFGI   = mean(KOFGI, na.rm = TRUE),
+            KOFEcGI = mean(KOFEcGI, na.rm = TRUE),
+            KOFSoGI = mean(KOFSoGI, na.rm = TRUE),
+            KOFPoGI = mean(KOFPoGI, na.rm = TRUE)) |> 
+  pivot_longer(cols = c("KOFGI", "KOFEcGI", "KOFSoGI", "KOFPoGI"),
+               names_to = "variable") |> 
+  mutate(variable = factor(variable,
+                           levels = c("KOFGI", "KOFEcGI", "KOFSoGI", "KOFPoGI"),
+                           labels = c("KOF総合", "KOF経済", "KOF社会", "KOF政治"))) |> 
+  ggplot(aes(x = year, y = value)) +
+  geom_line(aes(colour = variable)) +
+  labs(x = "年", y = "KOF指標の値", colour = "") +
+  theme(legend.position = "bottom")
+```
 
 ::: {.notes}
 KOF Indexのトレンド
@@ -100,6 +140,12 @@ Q. この現象の背景にある理由は？
 :::
 
 # 復習：ヘクシャー＝オリーンモデル
+::: {.notes}
+ここまで30分
+
+目標20分
+:::
+
 ## クイズ
 以下のうち、HO モデルに基づいているのはどれでしょうか。当てはまるものをすべて選んでください。
 
@@ -107,6 +153,10 @@ Q. この現象の背景にある理由は？
 1. 貿易が自由化されても、要素は産業間で移動できないため、輸出産業に関わる要素が得をし、輸入競合産業に関わる要素が損をする。
 1. 各国は、自国で相対的に豊富な生産要素を多く使う財を輸出し、希少な要素を多く使う財を輸入する。
 1. 貿易が自由化されると、その国に豊富な生産要素にとって有利になり、希少な生産要素は不利になる。
+
+::: {.notes}
+正解は3と4
+:::
 
 ## ヘクシャー＝オリーンモデル
 ::: {.columns}
@@ -204,6 +254,15 @@ Q. この現象の背景にある理由は？
 :::
 
 # 階級間連合モデル
+::: {.notes}
+ここまで50分
+
+休憩5分
+
+目標20分
+:::
+
+
 ## ロゴウスキーの分析[^rogowski1989]
 ::: {.colmuns}
 ::: {.column width=80%}
@@ -267,6 +326,12 @@ SS定理に基づくと、それぞれの国の地主・資本家・労働者は
 :::
 
 # 三つのイメージ論
+::: {.notes}
+ここまで75分（01:15:00）
+
+目標15分
+:::
+
 ## 三つのイメージ論
 ::: {.columns}
 ::: {.column width=70%}
@@ -317,6 +382,13 @@ SS定理に基づくと、それぞれの国の地主・資本家・労働者は
 [^gourevitch1978]: Gourevitch, P. (1978). The second image reversed: the international sources of domestic politics. \textit{International Organization,} 32(4), 881-912.\
 
 # まとめ
+::: {.notes}
+ここまで90分（01:30:00）
+
+目標15分
+:::
+
+
 ## 本日の目的と到達目標
 #### 目的
 グローバル化が国内政治経済に与える影響について収斂仮説を学ぶとともに、ヘクシャー＝オリーンモデルに基づいて収斂仮説を批判的に検討する。
