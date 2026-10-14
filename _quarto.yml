@@ -37,6 +37,7 @@ website:
       - section: 安全保障
         contents:
           - text: "07/経済と安全保障"
+            href: 07_economic_security.qmd
           - text: "08/リアリズム再説"
           - text: "09/リベラリズム再説"
       - section: 開発

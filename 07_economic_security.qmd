@@ -1,0 +1,7 @@
+---
+title: "07/経済と安全保障"
+abstract: 
+  経済と安全保障の関係について、国際関係論の歴史的展開を踏まえて理解する。また、エコノミック・ステートクラフト、経済安全保障、経済制裁の事例を通じて、経済的手段による安全保障上の目的の追求と、その可能性・限界について考察する。
+---
+
+{{< revealjs file="07_economic_security_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
