@@ -1,0 +1,7 @@
+---
+title: "08/リアリズム再説"
+abstract: 
+  リアリズムに位置付けられる議論を学ぶ。リアリズムの概要を学習／復習したのちに、相対的利益論の見地から国家間協力がなぜ難しいのか議論する。また、セキュリティ外部性論を学び、国境を超えた経済活動が安全保障に与える影響を検討する。
+---
+
+{{< revealjs file="08_realism_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

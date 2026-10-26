@@ -1526,5 +1526,180 @@
     "title": "04/グローバル化と福祉国家",
     "section": "戦後の経済成長",
     "text": "戦後の経済成長"
+  },
+  {
+    "objectID": "08_realism_slide.html#今日の目次",
+    "href": "08_realism_slide.html#今日の目次",
+    "title": "08/リアリズム再説",
+    "section": "今日の目次",
+    "text": "今日の目次\n\nはじめに\nリアリズム\n相対的利益論\nマスタンドゥーノの事例研究\nセキュリティ外部性論\nまとめ"
+  },
+  {
+    "objectID": "08_realism_slide.html#先週のrpより",
+    "href": "08_realism_slide.html#先週のrpより",
+    "title": "08/リアリズム再説",
+    "section": "先週のRPより",
+    "text": "先週のRPより\nTBD"
+  },
+  {
+    "objectID": "08_realism_slide.html#本日の目的と到達目標",
+    "href": "08_realism_slide.html#本日の目的と到達目標",
+    "title": "08/リアリズム再説",
+    "section": "本日の目的と到達目標",
+    "text": "本日の目的と到達目標\n目的\nリアリズムに位置付けられる議論を学ぶ。リアリズムの概要を学習／復習したのちに、相対的利益論の見地から国家間協力がなぜ難しいのか議論する。また、セキュリティ外部性論を学び、国境を超えた経済活動が安全保障に与える影響を検討する。\n\n到達目標\n\nリアリズムの議論の仮定を5つ挙げることができる。\nグリエコの定式化に触れつつ、相対的利益論の内容を説明できる。\nマスタンドゥーノの事例研究を踏まえて、相対的利益が国家の行動にどのような影響を与えるのかを説明できる。\nセキュリティ外部性論の議論の概要を説明できる。"
+  },
+  {
+    "objectID": "08_realism_slide.html#本日の授業の位置付け",
+    "href": "08_realism_slide.html#本日の授業の位置付け",
+    "title": "08/リアリズム再説",
+    "section": "本日の授業の位置付け",
+    "text": "本日の授業の位置付け"
+  },
+  {
+    "objectID": "08_realism_slide.html#リアリズム-1",
+    "href": "08_realism_slide.html#リアリズム-1",
+    "title": "08/リアリズム再説",
+    "section": "リアリズム",
+    "text": "リアリズム\nアナーキーな国際政治の中で国益と力を追求する国家同士の競争的関係を強調する考え\n\n重商主義（mercantilism）\n貿易黒字を最大化するために国家主導による国内産業育成と輸入の規制を求める経済政策上の考え方\n\n\n覇権安定理論（Hegemonic Stability Theory: HST）\n他国を圧倒する国力を持った覇権国（hegemon）が存在すると国際関係が安定"
+  },
+  {
+    "objectID": "08_realism_slide.html#覇権安定理論hegemonic-stability-theory-hst",
+    "href": "08_realism_slide.html#覇権安定理論hegemonic-stability-theory-hst",
+    "title": "08/リアリズム再説",
+    "section": "覇権安定理論（Hegemonic Stability Theory: HST）",
+    "text": "覇権安定理論（Hegemonic Stability Theory: HST）\n他国を圧倒する国力を持った覇権国（hegemon）が存在すると国際関係が安定"
+  },
+  {
+    "objectID": "08_realism_slide.html#リアリズムの5つの仮定",
+    "href": "08_realism_slide.html#リアリズムの5つの仮定",
+    "title": "08/リアリズム再説",
+    "section": "リアリズムの5つの仮定",
+    "text": "リアリズムの5つの仮定\n\n国際政治では国家が主体\n国内は一枚岩\n国家は国益（特に安全保障）と力を追求する\n国家間の力関係は主に軍事力が中心\n国家は打算的"
+  },
+  {
+    "objectID": "08_realism_slide.html#質問",
+    "href": "08_realism_slide.html#質問",
+    "title": "08/リアリズム再説",
+    "section": "質問",
+    "text": "質問\nリアリズムの5つの仮定は現実的でしょうか。\nもし当てはまらないとすれば、それはなぜですか。\n現実の事例も踏まえながら考えてみましょう。"
+  },
+  {
+    "objectID": "08_realism_slide.html#質問-1",
+    "href": "08_realism_slide.html#質問-1",
+    "title": "08/リアリズム再説",
+    "section": "質問",
+    "text": "質問\n今後10年の日本と中国のGDPについて、以下2つのような仮想のシナリオがあります。\n\n日本は10%、中国は20%それぞれ成長する。\n日本は5%、中国は6%それぞれ成長する。\n\n日本の立場としてはどちらが望ましいですか。それはなぜですか。"
+  },
+  {
+    "objectID": "08_realism_slide.html#相対的利益論-1",
+    "href": "08_realism_slide.html#相対的利益論-1",
+    "title": "08/リアリズム再説",
+    "section": "相対的利益論",
+    "text": "相対的利益論\n国家は主に相対的な利益の最大化を目指して行動するとの立場\n\nグリエコの定式化1\n国家は以下で表される効用\\(U\\)の最大化をするべく行動\n\\[\nU = V - k(W-V)\n\\]\n\n\\(V\\)：自国の絶対的利益\n\\(W\\)：他国の絶対的利益\n\\(k\\)：自国の相対的利得に対する敏感性\n\n\\(k=0\\)ならば絶対的利益だけを気にする\n通常は\\(k&gt;0\\)なので相対的利益も気にする\n\n\n\n\n相対的利益論\n\n国家は大きなWinWinよりも相手に対して大きな差をつけることを優先\nしたがって、国際協調は難しい\n\n\nGrieco, J. M. (1988). Anarchy and the limits of cooperation: a realist critique of the newest liberal institutionalism. International Organization, 42(3), 485-507."
+  },
+  {
+    "objectID": "08_realism_slide.html#敏感性の要因",
+    "href": "08_realism_slide.html#敏感性の要因",
+    "title": "08/リアリズム再説",
+    "section": "敏感性の要因",
+    "text": "敏感性の要因\n\n両国間関係…友好的か敵対的か\n\n例：アメリカ相手と中国相手\n\n国家の関心…経済か安全保障か\n\n例：ヨーロッパとイスラエル\n\n国力の現状…成長中か衰退中か\n\n例：日米と中国"
+  },
+  {
+    "objectID": "08_realism_slide.html#質問-2",
+    "href": "08_realism_slide.html#質問-2",
+    "title": "08/リアリズム再説",
+    "section": "質問",
+    "text": "質問\n\n防衛省HPより\n質問\n\n目的：相対的利益が実際の政策決定に与えた影響を理解する\n質問「（F-2の写真を見せながら）日本は1980年代、自衛隊の次期戦闘機について、当初はエンジンのみを米国から輸入し、機体は国内で開発することを考えていました。しかし、米国はこれに反対し、最終的には米国との共同開発となりました。その際、米国から日本への技術移転にも制約が設けられました。米国はなぜ、このような対応を取ったのでしょうか。」\n進行：当てる"
+  },
+  {
+    "objectID": "08_realism_slide.html#マスタンドゥーノの事例研究mastanduno1991",
+    "href": "08_realism_slide.html#マスタンドゥーノの事例研究mastanduno1991",
+    "title": "08/リアリズム再説",
+    "section": "マスタンドゥーノの事例研究1",
+    "text": "マスタンドゥーノの事例研究1\n80年代の時期支援戦闘機（FSX）開発計画を相対的利益論から分析\n\n主張：アメリカが相対的利益を追求した結果、FSX共同開発に制約\n\nFSX開発計画は本来は安全保障上両国に利益\nしかし横槍が入り開発が遅延し完成したF-2は高額化\n\n\nMastanduno, M. (1991). Do Relative Gains Matter America’s Response to Japanese Industrial Policy. International Security, 16(1), 73-113."
+  },
+  {
+    "objectID": "08_realism_slide.html#背景",
+    "href": "08_realism_slide.html#背景",
+    "title": "08/リアリズム再説",
+    "section": "背景",
+    "text": "背景\n\n自衛隊初の国産戦闘機F-1\n自衛隊初の国産戦闘機F-1\n\n戦前まで日本の航空産業は盛ん\n敗戦後GHQの命令により飛行機製造禁止→航空産業の壊滅\nF-1は初の国産戦闘機として、航空産業復活の要\nしかし老朽化も進み80年代に新型機導入が議論され始める"
+  },
+  {
+    "objectID": "08_realism_slide.html#日本の当初方針",
+    "href": "08_realism_slide.html#日本の当初方針",
+    "title": "08/リアリズム再説",
+    "section": "日本の当初方針",
+    "text": "日本の当初方針\n\n日本は当初F-1と同様の国産開発案\n\n自力開発困難なエンジンだけは輸入\nエンジン以外の機体等は全て自力開発\n\nアメリカはエンジンだけの輸出に消極的\n\n当時は貿易摩擦→対日赤字が積み上がる\n特に商務省・通商代表部・議会・航空業界→日本の経済的伸長に脅威認識"
+  },
+  {
+    "objectID": "08_realism_slide.html#共同開発合意と見直し",
+    "href": "08_realism_slide.html#共同開発合意と見直し",
+    "title": "08/リアリズム再説",
+    "section": "共同開発合意と見直し",
+    "text": "共同開発合意と見直し\n\nFSX開発計画（1982年）…米が開発・製造技術を提供する形の共同開発で合意\n\n安全保障上日米協力を進めたい国務省・国防総省は肯定的\n他方商務省らは反対→「技術提供は安全保障上問題」\n\n1989年2月合意見直し\n\nブッシュ（父）大統領が国防・商務両省に作業を指示\n米国企業は日本の技術にアクセス可能\n米国の技術の日本への譲渡は規制"
+  },
+  {
+    "objectID": "08_realism_slide.html#日本の当初方針とアメリカの横槍",
+    "href": "08_realism_slide.html#日本の当初方針とアメリカの横槍",
+    "title": "08/リアリズム再説",
+    "section": "日本の当初方針とアメリカの横槍",
+    "text": "日本の当初方針とアメリカの横槍\n\n日本は当初F-1と同様の国産開発案\n\n自力開発困難なエンジンだけは輸入\nエンジン以外の機体等は全て自力開発\n\nアメリカはエンジンだけの輸出に消極的\n\n当時は貿易摩擦→対日赤字が積み上がる\n特に商務省・通商代表部・議会・航空業界→日本の経済的伸長に脅威認識"
+  },
+  {
+    "objectID": "08_realism_slide.html#セキュリティ外部性security-externalities",
+    "href": "08_realism_slide.html#セキュリティ外部性security-externalities",
+    "title": "08/リアリズム再説",
+    "section": "セキュリティ外部性（security externalities）",
+    "text": "セキュリティ外部性（security externalities）\nある国の経済的な意思決定がその安全保障環境に影響を与えること\n\n貿易の開始→相手国の経済発展→相手国の国力伸長\n友好国なら嬉しいが敵対国なら嬉しくない\n\n\n→自由貿易は必ずしも歓迎されるわけではない\n\nCf. 商業的平和論"
+  },
+  {
+    "objectID": "08_realism_slide.html#セキュリティ外部性",
+    "href": "08_realism_slide.html#セキュリティ外部性",
+    "title": "08/リアリズム再説",
+    "section": "セキュリティ外部性",
+    "text": "セキュリティ外部性\nsecurity externalities\nある国の経済的な意思決定がその安全保障環境に影響を与えること\n\n貿易の開始→相手国の経済発展→相手国の国力伸長\n友好国なら嬉しいが敵対国なら嬉しくない\n\n\n→自由貿易は必ずしも歓迎されるわけではない\n\nCf. 商業的平和論"
+  },
+  {
+    "objectID": "08_realism_slide.html#事例",
+    "href": "08_realism_slide.html#事例",
+    "title": "08/リアリズム再説",
+    "section": "事例",
+    "text": "事例\n\n戦間期ブロック経済\n\nブロック外の製品の排除\n\nGATT=ブレトン・ウッズ体制\n\n西側諸国のみで旧ソ連圏は排除\nCOCOM による対ソ連圏貿易の厳重規制\n\nウクライナ戦争\n\n西側とロシアは相互に貿易規制"
+  },
+  {
+    "objectID": "08_realism_slide.html#同盟関係と貿易",
+    "href": "08_realism_slide.html#同盟関係と貿易",
+    "title": "08/リアリズム再説",
+    "section": "同盟関係と貿易",
+    "text": "同盟関係と貿易\n\n\n\nGowa & Mansfield (1993: 414)\n\n\n\n二極化時代（1955年以降）において、同盟関係が貿易を増やす"
+  },
+  {
+    "objectID": "08_realism_slide.html#質問-3",
+    "href": "08_realism_slide.html#質問-3",
+    "title": "08/リアリズム再説",
+    "section": "質問",
+    "text": "質問\n次の国々のうちどの国・地域と日本は貿易すべき／しないべきだと思いますか。理由も一緒に考えてみましょう。\n\nアメリカ\n中国\nイギリス\n台湾\n韓国\nロシア"
+  },
+  {
+    "objectID": "08_realism_slide.html#本日の目的と到達目標-1",
+    "href": "08_realism_slide.html#本日の目的と到達目標-1",
+    "title": "08/リアリズム再説",
+    "section": "本日の目的と到達目標",
+    "text": "本日の目的と到達目標\n目的\nリアリズムに位置付けられる議論を学ぶ。リアリズムの概要を学習／復習したのちに、相対的利益論の見地から国家間協力がなぜ難しいのか議論する。また、セキュリティ外部性論を学び、国境を超えた経済活動が安全保障に与える影響を検討する。\n\n到達目標\n\nリアリズムの議論の仮定を5つ挙げることができる。\nグリエコの定式化に触れつつ、相対的利益論の内容を説明できる。\nマスタンドゥーノの事例研究を踏まえて、相対的利益が国家の行動にどのような影響を与えるのかを説明できる。\nセキュリティ外部性論の議論の概要を説明できる。"
+  },
+  {
+    "objectID": "08_realism_slide.html#次回までに",
+    "href": "08_realism_slide.html#次回までに",
+    "title": "08/リアリズム再説",
+    "section": "次回までに",
+    "text": "次回までに\n事後学習\n\n授業資料を見直し、目標到達をセルフチェック\nMoodle上でのリアクションペーパー入力（木曜日まで）"
+  },
+  {
+    "objectID": "08_realism.html",
+    "href": "08_realism.html",
+    "title": "08/リアリズム再説",
+    "section": "",
+    "text": "View slides in full screen"
   }
 ]
